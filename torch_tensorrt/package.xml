@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package format="2">
+    <name>torch_tensorrt</name>
+    <version>0.0.0</version>
+    <description>torch_tensorrt</description>
+    <maintainer email="hhuangat@gmail.ust.hk">hyhuang</maintainer>
+    <license>TBD</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <buildtool_depend>catkin_simple</buildtool_depend>
+
+    <!-- <depend>tensorrt</depend> -->
+    <depend>libtorch</depend>
+
+</package>
